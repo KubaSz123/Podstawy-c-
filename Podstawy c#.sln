@@ -1,9 +1,57 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 1 tablice", "zadanie 1 tablice\zadanie 1 tablice.csproj", "{BA6E665B-41BB-45F8-BEA5-6252CE4BB897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 1 tablice 2 sposob", "zadanie 1 tablice 2 sposob\zadanie 1 tablice 2 sposob.csproj", "{71EB8F83-5230-46FE-8968-75E549E7BB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 2 tablice", "zadanie 2 tablice\zadanie 2 tablice.csproj", "{805A8187-1E2D-4BA3-8F74-453128554BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 3 tablice", "zadanie 3 tablice\zadanie 3 tablice.csproj", "{8D0E3636-6617-4963-91EC-BF189AA2CAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 4 tablice", "zadanie 4 tablice\zadanie 4 tablice.csproj", "{11D1DD19-6601-45B1-B191-EA79F5E7B4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 5 tablice", "zadanie 5 tablice\zadanie 5 tablice.csproj", "{D3AA980B-20E0-4930-B33D-74B24B5C68D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadanie 6 tablice", "zadanie 6 tablice\zadanie 6 tablice.csproj", "{94FB7567-7A5B-4E0F-A2FA-9D08761D2D3B}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6E665B-41BB-45F8-BEA5-6252CE4BB897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6E665B-41BB-45F8-BEA5-6252CE4BB897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6E665B-41BB-45F8-BEA5-6252CE4BB897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6E665B-41BB-45F8-BEA5-6252CE4BB897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EB8F83-5230-46FE-8968-75E549E7BB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EB8F83-5230-46FE-8968-75E549E7BB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EB8F83-5230-46FE-8968-75E549E7BB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EB8F83-5230-46FE-8968-75E549E7BB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805A8187-1E2D-4BA3-8F74-453128554BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805A8187-1E2D-4BA3-8F74-453128554BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805A8187-1E2D-4BA3-8F74-453128554BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805A8187-1E2D-4BA3-8F74-453128554BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0E3636-6617-4963-91EC-BF189AA2CAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0E3636-6617-4963-91EC-BF189AA2CAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0E3636-6617-4963-91EC-BF189AA2CAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0E3636-6617-4963-91EC-BF189AA2CAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D1DD19-6601-45B1-B191-EA79F5E7B4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D1DD19-6601-45B1-B191-EA79F5E7B4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D1DD19-6601-45B1-B191-EA79F5E7B4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D1DD19-6601-45B1-B191-EA79F5E7B4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AA980B-20E0-4930-B33D-74B24B5C68D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AA980B-20E0-4930-B33D-74B24B5C68D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AA980B-20E0-4930-B33D-74B24B5C68D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AA980B-20E0-4930-B33D-74B24B5C68D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FB7567-7A5B-4E0F-A2FA-9D08761D2D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FB7567-7A5B-4E0F-A2FA-9D08761D2D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FB7567-7A5B-4E0F-A2FA-9D08761D2D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FB7567-7A5B-4E0F-A2FA-9D08761D2D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
