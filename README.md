@@ -77,7 +77,7 @@ Jeśli zgadniesz – wynik trafia do pliku `wynik.txt`.
 
 ## 👤 Autor
 
-Projekt wykonany przez **[Twoje imię i nazwisko]**  
+Projekt wykonany przez **[Jakub Szczepański]**  
 Zawiera wszystkie wymagane elementy:  
 **zmienne, instrukcje warunkowe, pętle `for` i `while`, tablice, metody, rekurencję, operacje na pliku tekstowym.**
 
