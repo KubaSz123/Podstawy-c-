@@ -40,6 +40,6 @@ Uruchomienie projektu
 Zrzuty ekranu
 *(Dodaj zrzuty okna gry tutaj, jeśli robisz prezentację)*
 Autor
-Projekt wykonany przez [Twoje imię i nazwisko] w ramach zaliczenia przedmiotu „Programowanie”. Zawiera wszystkie wymagane elementy: zmienne, pętle, if, tablice, metody, rekurencję i pliki.
+Projekt wykonany przez Jakub Szczepanski w ramach zaliczenia przedmiotu „Programowanie”. Zawiera wszystkie wymagane elementy: zmienne, pętle, if, tablice, metody, rekurencję i pliki.
 Plik zapisywany
 Program tworzy plik wynik.txt z informacją o poprawnej odpowiedzi i czasie.
