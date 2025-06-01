@@ -69,12 +69,6 @@ Jeśli zgadniesz – wynik trafia do pliku `wynik.txt`.
 
 ---
 
-## 🖼 Zrzuty ekranu
-
-*(tu możesz wkleić obrazy z interfejsu)*
-
----
-
 ## 👤 Autor
 
 Projekt wykonany przez **[Jakub Szczepański]**  
@@ -90,7 +84,4 @@ Program tworzy plik `wynik.txt`, w którym zapisuje:
 
 ---
 
-## ✅ Uwaga
-
-Projekt spełnia wszystkie wymagania zaliczeniowe z programowania Windows Forms.
 
